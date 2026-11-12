@@ -5,7 +5,8 @@ category: manuscripts
 permalink: /publication/perception-bottleneck-vlms-chart/
 excerpt: >
   Junteng Liu (first author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
-date: 2025
+year: 2025
+order: 2
 venue: "arXiv"
 ---
 

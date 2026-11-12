@@ -5,7 +5,8 @@ category: manuscripts
 permalink: /publication/synlogic/
 excerpt: >
   Junteng Liu (first author), Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
-date: 2025
+year: 2025
+order: 1
 venue: "arXiv"
 ---
 

@@ -5,7 +5,8 @@ category: conferences
 permalink: /publication/in-context-sharpness/
 excerpt: >
   Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.
-date: 2024
+year: 2024
+order: 4
 venue: "ICML 2024"
 ---
 
